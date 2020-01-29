@@ -1,4 +1,4 @@
-## Interface: 80205
+## Interface: 80300
 
 ## Title: SharedMedia Additional Fonts
 ## Notes: Inserts additionnal fonts into SharedMediaLib's storage.
