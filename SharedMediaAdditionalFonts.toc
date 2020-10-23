@@ -3,7 +3,7 @@
 ## Title: SharedMedia Additional Fonts
 ## Notes: Inserts additionnal fonts into SharedMediaLib's storage.
 ## Version: @project-version@
-## Author: Lots of people, maintained by pb_ee1.
+## Author: Lots of people, maintained by AllInOneMighty.
 ## X-Category: Miscellaneous
 ## X-Credits: elsia
 
