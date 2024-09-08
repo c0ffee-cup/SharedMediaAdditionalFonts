@@ -4,7 +4,7 @@
 ---- PLEASE READ BEFORE DOING ANYTHING ----
 ----
 
-Only fonts should be added to this addon. If you wish to add textures, sounds, 
+Only fonts should be added to this addon. If you wish to add textures, sounds,
 ... create your own addon or use an existing one if there is one.
 All fonts must be able to display special characters such as é, è, à, ü, É, Ç,
 ... Remember that not all the users use the English client!
@@ -36,6 +36,7 @@ SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx Dirty", [[Interfa
 SharedMediaAdditionalFonts:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Diogenes", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DIOGENES.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Disko", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Disko.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Expressway", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\expressway_rg.otf]])
 SharedMediaAdditionalFonts:Register("font", "Frakturika Spamless", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FRAKS___.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Impact", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\impact.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Liberation Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSans-Regular.ttf]])
