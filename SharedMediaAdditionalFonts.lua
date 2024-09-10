@@ -36,7 +36,7 @@ SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx Dirty", [[Interfa
 SharedMediaAdditionalFonts:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Diogenes", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DIOGENES.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Disko", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Disko.ttf]])
-SharedMediaAdditionalFonts:Register("font", "Expressway", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\expressway_rg.otf]])
+SharedMediaAdditionalFonts:Register("font", "Expressway", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\expressway.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Frakturika Spamless", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FRAKS___.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Impact", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\impact.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Liberation Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSans-Regular.ttf]])
