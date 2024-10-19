@@ -36,6 +36,8 @@ SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx", [[Interface\Add
 SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx Dirty", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxxDirty.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Continuum Medium", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\ContinuumMedium.ttf]])
+SharedMediaAdditionalFonts:Register("font", "DejaVu Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans.ttf]])
+SharedMediaAdditionalFonts:Register("font", "DejaVu Sans, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans-Bold.ttf]])
 SharedMediaAdditionalFonts:Register("font", "DieDieDie", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DieDieDie.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Diogenes", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DIOGENES.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Disko", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Disko.ttf]])
